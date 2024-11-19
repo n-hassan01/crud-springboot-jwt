@@ -12,6 +12,12 @@ import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 
+/**
+ * author: Naimul Hassan
+ * 
+ * date: 11/18/2024
+ */
+
 @Component
 public class JwtAuthenticationFilter extends OncePerRequestFilter {
 

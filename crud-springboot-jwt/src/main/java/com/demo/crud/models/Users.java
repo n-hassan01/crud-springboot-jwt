@@ -3,6 +3,12 @@ package com.demo.crud.models;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 
+/**
+ * author: Naimul Hassan
+ * 
+ * date: 11/18/2024
+ */
+
 @Entity
 public class Users {
 

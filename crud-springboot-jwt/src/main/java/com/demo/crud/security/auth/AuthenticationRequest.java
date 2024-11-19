@@ -1,5 +1,11 @@
 package com.demo.crud.security.auth;
 
+/**
+ * author: Naimul Hassan
+ * 
+ * date: 11/18/2024
+ */
+
 public class AuthenticationRequest {
 	private String username;
 	private String password;

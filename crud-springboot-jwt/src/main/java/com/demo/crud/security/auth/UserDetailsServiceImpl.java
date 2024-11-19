@@ -12,6 +12,12 @@ import org.springframework.stereotype.Service;
 import com.demo.crud.dao.UsersDao;
 import com.demo.crud.models.Users;
 
+/**
+ * author: Naimul Hassan
+ * 
+ * date: 11/18/2024
+ */
+
 @Service
 public class UserDetailsServiceImpl implements UserDetailsService {
 
